@@ -1,0 +1,14 @@
+{
+	"name": "Node.js & TypeScript",
+	"build": {
+		"dockerfile": "Dockerfile",
+		"args": { 
+			"NODE_VERSION": "14"
+		}
+	},
+	"extensions": [
+		"dbaeumer.vscode-eslint",
+		"ms-vscode-remote.remote-containers",
+		"esbenp.prettier-vscode"
+	]
+}
