@@ -9,6 +9,7 @@
 	"extensions": [
 		"dbaeumer.vscode-eslint",
 		"ms-vscode-remote.remote-containers",
-		"esbenp.prettier-vscode"
+		"esbenp.prettier-vscode",
+		"johnpapa.angular2"
 	]
 }
