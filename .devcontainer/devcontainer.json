@@ -1,5 +1,5 @@
 {
-	"name": "Node.js & TypeScript",
+	"name": "Angular web app",
 	"build": {
 		"dockerfile": "Dockerfile",
 		"args": { 
