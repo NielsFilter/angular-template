@@ -6,10 +6,12 @@
 			"NODE_VERSION": "14"
 		}
 	},
+	"forwardPorts": [
+		4200
+	],
 	"extensions": [
 		"dbaeumer.vscode-eslint",
 		"ms-vscode-remote.remote-containers",
-		"esbenp.prettier-vscode",
 		"johnpapa.angular2"
 	]
 }
